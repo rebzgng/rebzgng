@@ -1,6 +1,5 @@
 <div align="center">
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=d1bqsmqsv5xny71hcpjc38d4t&redirect=true">
     <img src="https://cdn.discordapp.com/attachments/1410773122419785782/1433597886788276274/Untitled114_20251031002514.png?ex=69054593&is=6903f413&hm=2609051bddb2a9dbc6b0fe26df1610819be14633f860be9a609f36f7dd596f65&">
 
 
